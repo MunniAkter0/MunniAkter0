@@ -12,7 +12,6 @@
 - 📫 Email munniakte37443@gmail.com
 - ⚡ Fun fact I love to code and cook!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MunniAkter0&label=Profile%20views&color=E4405F&style=flat" alt="MunniAkter0" /> </p>
-## Connect with Me
 
 
 
