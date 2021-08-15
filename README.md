@@ -4,10 +4,10 @@
 
 ###
 
-## Junior MERN Developer 😍😍
+## Passionate MERN Developer 😍😍
 
 - 🔭 Admin In Command Programming Hero
-- 🌱 I’m currently learning Everything
+- 🌱 I’m currently learning app development
 - 💬 Ask me about react
 - 📫 Email munniakte37443@gmail.com
 - ⚡ Fun fact I love to code and cook!
